@@ -3,3 +3,9 @@ Add a Note Edit Them and Delete them using uselocalstorage, usememo, and filteri
 
 ## Custom hook
 useLocalStorage
+
+## Hooks
+usestate, useMemo
+
+## CSS
+Bootstrap
